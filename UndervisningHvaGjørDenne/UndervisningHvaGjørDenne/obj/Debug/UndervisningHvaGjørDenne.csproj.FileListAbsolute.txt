@@ -1,0 +1,7 @@
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningHvaGjørDenne\UndervisningHvaGjørDenne\bin\Debug\UndervisningHvaGjørDenne.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningHvaGjørDenne\UndervisningHvaGjørDenne\bin\Debug\UndervisningHvaGjørDenne.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningHvaGjørDenne\UndervisningHvaGjørDenne\bin\Debug\UndervisningHvaGjørDenne.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningHvaGjørDenne\UndervisningHvaGjørDenne\obj\Debug\UndervisningHvaGjørDenne.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningHvaGjørDenne\UndervisningHvaGjørDenne\obj\Debug\UndervisningHvaGjørDenne.csproj.CoreCompileInputs.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningHvaGjørDenne\UndervisningHvaGjørDenne\obj\Debug\UndervisningHvaGjørDenne.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningHvaGjørDenne\UndervisningHvaGjørDenne\obj\Debug\UndervisningHvaGjørDenne.pdb

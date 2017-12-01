@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AdventureGameModel>
+  <Player Room="C">
+    <Inventory>
+    </Inventory>
+  </Player>
+  <Rooms>
+    <Room Id="A">
+      <Doors>
+        <Door Color="blå" South="C" IsOpen="false"></Door>
+      </Doors>
+      <Text>Du er i et rom fullt av stoler - levert av Rom for flere. Du kan såvidt komme deg til alle deler av rommet ved å smyge deg forbi høye stabler av stabledesignstoler.</Text>
+      <Inventory>
+        <Item>
+          <Key Color="grønn"></Key>
+        </Item>
+      </Inventory>
+    </Room>
+    <Room Id="B">
+      <Doors>
+        <Door Color="rød" South="D" IsOpen="false"></Door>
+      </Doors>
+      <Text>Rommet er fullt av tåke. Det føles som du er langt unna alt. Det er vanskelig å se. </Text>
+      <Inventory>
+        <Item>
+          <Key Color="gul"></Key>
+        </Item>
+      </Inventory>
+    </Room>
+    <Room Id="C">
+      <Doors>
+        <Door Color="gul" West="FINISH" IsOpen="false"></Door>
+        <Door Color="grønn" East="D" IsOpen="false"></Door>
+        <Door Color="blå" North="A" IsOpen="false"></Door>
+      </Doors>
+      <Text>Det er veldig lyst i rommet - så det nesten er vanskelig å se.</Text>
+      <Inventory>
+        <Item>
+          <Key Color="rød"></Key>
+          <Key Color="blå"></Key>
+        </Item>
+      </Inventory>
+    </Room>
+    <Room Id="D">
+      <Doors>
+        <Door Color="rød" North="B" IsOpen="false"></Door>
+        <Door Color="grønn" West="C" IsOpen="false"></Door>
+      </Doors>
+      <Text>Det lyser svakt rødt fra en lampe nær gulvet i det ene hjørnet. Du kan såvidt orientere deg i rommet. </Text>
+      <Inventory>
+        <Item>
+          <Key Color="rød"></Key>
+          <Key Color="blå"></Key>
+        </Item>
+      </Inventory>
+    </Room>
+  </Rooms>
+</AdventureGameModel>

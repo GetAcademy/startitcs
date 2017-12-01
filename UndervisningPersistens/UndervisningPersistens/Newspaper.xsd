@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:vg="http://www.vg.no/namespace" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://www.vg.no/namespace" />
+  <xs:element name="rss">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="channel">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="image">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="title" type="xs:string" />
+                    <xs:element name="url" type="xs:string" />
+                    <xs:element name="link" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="title" type="xs:string" />
+              <xs:element name="ttl" type="xs:unsignedByte" />
+              <xs:element name="description" type="xs:string" />
+              <xs:element name="link" type="xs:string" />
+              <xs:element name="lastBuildDate" type="xs:string" />
+              <xs:element maxOccurs="unbounded" name="item">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="title" type="xs:string" />
+                    <xs:element name="description" type="xs:string" />
+                    <xs:element name="link" type="xs:string" />
+                    <xs:element name="guid" type="xs:string" />
+                    <xs:element name="image" type="xs:string" />
+                    <xs:element name="imgRegular" type="xs:string" />
+                    <xs:element name="enclosure">
+                      <xs:complexType>
+                        <xs:attribute name="url" type="xs:string" use="required" />
+                        <xs:attribute name="length" type="xs:unsignedByte" use="required" />
+                        <xs:attribute name="type" type="xs:string" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="pubDate" type="xs:string" />
+                    <xs:element name="category" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="version" type="xs:decimal" use="required" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

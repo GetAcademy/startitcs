@@ -1,0 +1,6 @@
+C:\GET IT\C#\B\FractionFun\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\GET IT\C#\B\FractionFun\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\GET IT\C#\B\FractionFun\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\GET IT\C#\B\FractionFun\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\GET IT\C#\B\FractionFun\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\GET IT\C#\B\FractionFun\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

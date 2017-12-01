@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<AdventureGameModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Player Room="C">
+    <Inventory>
+      <Item>
+        <Key Color="gul" />
+      </Item>
+    </Inventory>
+  </Player>
+  <Rooms>
+    <Room Id="A">
+      <Doors>
+        <Door Color="blå" IsOpen="true" South="C" />
+      </Doors>
+      <Text>Du er i et rom fullt av stoler - levert av Rom for flere. Du kan såvidt komme deg til alle deler av rommet ved å smyge deg forbi høye stabler av stabledesignstoler.</Text>
+      <Inventory>
+        <Item>
+          <Key Color="blå" />
+        </Item>
+      </Inventory>
+    </Room>
+    <Room Id="B">
+      <Doors>
+        <Door Color="rød" IsOpen="true" South="D" />
+      </Doors>
+      <Text>Rommet er fullt av tåke. Det føles som du er langt unna alt. Det er vanskelig å se. </Text>
+      <Inventory>
+        <Item>
+          <Key Color="rød" />
+        </Item>
+      </Inventory>
+    </Room>
+    <Room Id="C">
+      <Doors>
+        <Door Color="gul" IsOpen="false" West="FINISH" />
+        <Door Color="grønn" East="D" IsOpen="true" />
+        <Door Color="blå" North="A" IsOpen="true" />
+      </Doors>
+      <Text>Det er veldig lyst i rommet - så det nesten er vanskelig å se.</Text>
+      <Inventory>
+        <Item>
+          <Key Color="rød" />
+        </Item>
+      </Inventory>
+    </Room>
+    <Room Id="D">
+      <Doors>
+        <Door Color="rød" North="B" IsOpen="true" />
+        <Door Color="grønn" IsOpen="true" West="C" />
+      </Doors>
+      <Text>Det lyser svakt rødt fra en lampe nær gulvet i det ene hjørnet. Du kan såvidt orientere deg i rommet. </Text>
+      <Inventory>
+        <Item>
+          <Key Color="blå" />
+          <Key Color="grønn" />
+        </Item>
+      </Inventory>
+    </Room>
+  </Rooms>
+</AdventureGameModel>

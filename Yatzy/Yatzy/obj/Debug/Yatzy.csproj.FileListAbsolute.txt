@@ -1,0 +1,6 @@
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\Yatzy\bin\Debug\Yatzy.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\Yatzy\bin\Debug\Yatzy.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\Yatzy\bin\Debug\Yatzy.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\Yatzy\obj\Debug\Yatzy.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\Yatzy\obj\Debug\Yatzy.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\Yatzy\obj\Debug\Yatzy.pdb

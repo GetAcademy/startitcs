@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="AdventureGameModel">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Player">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Inventory">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Item">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element maxOccurs="unbounded" name="Key">
+                            <xs:complexType>
+                              <xs:attribute name="Color" type="xs:string" use="required" />
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="Room" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Rooms">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="Room">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="Doors">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element maxOccurs="unbounded" name="Door">
+                            <xs:complexType>
+                              <xs:attribute name="Color" type="xs:string" use="required" />
+                              <xs:attribute name="East" type="xs:string" use="optional" />
+                              <xs:attribute name="North" type="xs:string" use="optional" />
+                              <xs:attribute name="IsOpen" type="xs:boolean" use="required" />
+                              <xs:attribute name="South" type="xs:string" use="optional" />
+                              <xs:attribute name="West" type="xs:string" use="optional" />
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Text" type="xs:string" />
+                    <xs:element name="Inventory">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Item">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element maxOccurs="unbounded" name="Key">
+                                  <xs:complexType>
+                                    <xs:attribute name="Color" type="xs:string" use="required" />
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="Id" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

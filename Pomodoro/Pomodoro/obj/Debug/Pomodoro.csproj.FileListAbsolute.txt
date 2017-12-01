@@ -1,0 +1,9 @@
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Pomodoro\Pomodoro\bin\Debug\Pomodoro.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Pomodoro\Pomodoro\obj\Debug\Pomodoro.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Pomodoro\Pomodoro\obj\Debug\Pomodoro.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.CoreCompileInputs.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Pomodoro\Pomodoro\bin\Debug\PomodoroEngine.dll
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Pomodoro\Pomodoro\bin\Debug\PomodoroEngine.pdb

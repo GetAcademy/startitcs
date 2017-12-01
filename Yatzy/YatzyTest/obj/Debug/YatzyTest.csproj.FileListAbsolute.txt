@@ -1,0 +1,15 @@
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\obj\Debug\YatzyTest.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\bin\Debug\YatzyTest.dll
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\bin\Debug\YatzyTest.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\bin\Debug\Yatzy.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\bin\Debug\Yatzy.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\bin\Debug\Yatzy.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\obj\Debug\YatzyTest.dll
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\Yatzy\YatzyTest\obj\Debug\YatzyTest.pdb

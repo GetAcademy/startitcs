@@ -1,0 +1,6 @@
+C:\GET IT\C#\Undervisning - intro til C sharp\Undervisning - intro til C sharp\bin\Debug\Undervisning - intro til C sharp.exe.config
+C:\GET IT\C#\Undervisning - intro til C sharp\Undervisning - intro til C sharp\bin\Debug\Undervisning - intro til C sharp.exe
+C:\GET IT\C#\Undervisning - intro til C sharp\Undervisning - intro til C sharp\bin\Debug\Undervisning - intro til C sharp.pdb
+C:\GET IT\C#\Undervisning - intro til C sharp\Undervisning - intro til C sharp\obj\Debug\Undervisning - intro til C sharp.csprojResolveAssemblyReference.cache
+C:\GET IT\C#\Undervisning - intro til C sharp\Undervisning - intro til C sharp\obj\Debug\Undervisning - intro til C sharp.exe
+C:\GET IT\C#\Undervisning - intro til C sharp\Undervisning - intro til C sharp\obj\Debug\Undervisning - intro til C sharp.pdb

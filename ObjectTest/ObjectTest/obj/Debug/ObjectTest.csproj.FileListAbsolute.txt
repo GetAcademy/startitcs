@@ -1,0 +1,7 @@
+C:\GET IT\ObjectTest\ObjectTest\bin\Debug\ObjectTest.exe.config
+C:\GET IT\ObjectTest\ObjectTest\bin\Debug\ObjectTest.exe
+C:\GET IT\ObjectTest\ObjectTest\bin\Debug\ObjectTest.pdb
+C:\GET IT\ObjectTest\ObjectTest\obj\Debug\ObjectTest.csprojResolveAssemblyReference.cache
+C:\GET IT\ObjectTest\ObjectTest\obj\Debug\ObjectTest.csproj.CoreCompileInputs.cache
+C:\GET IT\ObjectTest\ObjectTest\obj\Debug\ObjectTest.exe
+C:\GET IT\ObjectTest\ObjectTest\obj\Debug\ObjectTest.pdb

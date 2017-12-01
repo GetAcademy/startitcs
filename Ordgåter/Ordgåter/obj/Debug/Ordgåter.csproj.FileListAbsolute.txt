@@ -1,0 +1,7 @@
+C:\GET IT\C#\Ordgåter\Ordgåter\bin\Debug\ordliste.txt
+C:\GET IT\C#\Ordgåter\Ordgåter\bin\Debug\Ordgåter.exe.config
+C:\GET IT\C#\Ordgåter\Ordgåter\bin\Debug\Ordgåter.exe
+C:\GET IT\C#\Ordgåter\Ordgåter\bin\Debug\Ordgåter.pdb
+C:\GET IT\C#\Ordgåter\Ordgåter\obj\Debug\Ordgåter.csprojResolveAssemblyReference.cache
+C:\GET IT\C#\Ordgåter\Ordgåter\obj\Debug\Ordgåter.exe
+C:\GET IT\C#\Ordgåter\Ordgåter\obj\Debug\Ordgåter.pdb

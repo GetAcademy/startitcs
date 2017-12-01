@@ -1,0 +1,7 @@
+C:\Users\terje\Google Drive\GET IT SRC\ObjectDemo\ObjectDemo\bin\Debug\ObjectDemo.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\ObjectDemo\ObjectDemo\bin\Debug\ObjectDemo.exe
+C:\Users\terje\Google Drive\GET IT SRC\ObjectDemo\ObjectDemo\bin\Debug\ObjectDemo.pdb
+C:\Users\terje\Google Drive\GET IT SRC\ObjectDemo\ObjectDemo\obj\Debug\ObjectDemo.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\ObjectDemo\ObjectDemo\obj\Debug\ObjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\terje\Google Drive\GET IT SRC\ObjectDemo\ObjectDemo\obj\Debug\ObjectDemo.exe
+C:\Users\terje\Google Drive\GET IT SRC\ObjectDemo\ObjectDemo\obj\Debug\ObjectDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\terje\Google Drive\GET IT SRC\MerOmObjekter\MerOmObjekter\bin\Debug\MerOmObjekter.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\MerOmObjekter\MerOmObjekter\bin\Debug\MerOmObjekter.exe
+C:\Users\terje\Google Drive\GET IT SRC\MerOmObjekter\MerOmObjekter\bin\Debug\MerOmObjekter.pdb
+C:\Users\terje\Google Drive\GET IT SRC\MerOmObjekter\MerOmObjekter\obj\Debug\MerOmObjekter.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\MerOmObjekter\MerOmObjekter\obj\Debug\MerOmObjekter.exe
+C:\Users\terje\Google Drive\GET IT SRC\MerOmObjekter\MerOmObjekter\obj\Debug\MerOmObjekter.pdb

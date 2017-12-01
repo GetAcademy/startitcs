@@ -1,0 +1,6 @@
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\BottleExerciseSolver\BottleExerciseSolver\bin\Debug\BottleExerciseSolver.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\BottleExerciseSolver\BottleExerciseSolver\bin\Debug\BottleExerciseSolver.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\BottleExerciseSolver\BottleExerciseSolver\bin\Debug\BottleExerciseSolver.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\BottleExerciseSolver\BottleExerciseSolver\obj\Debug\BottleExerciseSolver.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\BottleExerciseSolver\BottleExerciseSolver\obj\Debug\BottleExerciseSolver.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\BottleExerciseSolver\BottleExerciseSolver\obj\Debug\BottleExerciseSolver.pdb

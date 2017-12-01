@@ -1,0 +1,7 @@
+C:\GET IT\C#\Startlist\Startlist\bin\Debug\startlist.csv
+C:\GET IT\C#\Startlist\Startlist\bin\Debug\Startlist.exe.config
+C:\GET IT\C#\Startlist\Startlist\bin\Debug\Startlist.exe
+C:\GET IT\C#\Startlist\Startlist\bin\Debug\Startlist.pdb
+C:\GET IT\C#\Startlist\Startlist\obj\Debug\Startlist.csprojResolveAssemblyReference.cache
+C:\GET IT\C#\Startlist\Startlist\obj\Debug\Startlist.exe
+C:\GET IT\C#\Startlist\Startlist\obj\Debug\Startlist.pdb

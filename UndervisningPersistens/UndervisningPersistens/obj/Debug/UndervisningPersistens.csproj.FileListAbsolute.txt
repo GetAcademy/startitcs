@@ -1,0 +1,6 @@
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningPersistens\UndervisningPersistens\bin\Debug\UndervisningPersistens.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningPersistens\UndervisningPersistens\bin\Debug\UndervisningPersistens.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningPersistens\UndervisningPersistens\bin\Debug\UndervisningPersistens.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningPersistens\UndervisningPersistens\obj\Debug\UndervisningPersistens.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningPersistens\UndervisningPersistens\obj\Debug\UndervisningPersistens.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningPersistens\UndervisningPersistens\obj\Debug\UndervisningPersistens.pdb

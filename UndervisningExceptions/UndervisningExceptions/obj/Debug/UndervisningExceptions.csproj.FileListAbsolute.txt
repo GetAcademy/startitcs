@@ -1,0 +1,6 @@
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningExceptions\UndervisningExceptions\bin\Debug\UndervisningExceptions.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningExceptions\UndervisningExceptions\bin\Debug\UndervisningExceptions.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningExceptions\UndervisningExceptions\bin\Debug\UndervisningExceptions.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningExceptions\UndervisningExceptions\obj\Debug\UndervisningExceptions.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningExceptions\UndervisningExceptions\obj\Debug\UndervisningExceptions.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningExceptions\UndervisningExceptions\obj\Debug\UndervisningExceptions.pdb

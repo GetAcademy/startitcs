@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunningProgramStatistics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RunCount>5</RunCount>
+  <Runs>
+    <Run Timestamp="2017-09-13T18:24:59.3834169+02:00" />
+    <Run Timestamp="2017-09-13T18:25:29.260138+02:00" />
+    <Run Timestamp="2017-09-13T18:25:33.4812714+02:00" />
+    <Run Timestamp="2017-09-13T18:27:32.7719949+02:00" />
+    <Run Timestamp="2017-09-13T18:27:34.6832799+02:00" />
+  </Runs>
+</RunningProgramStatistics>

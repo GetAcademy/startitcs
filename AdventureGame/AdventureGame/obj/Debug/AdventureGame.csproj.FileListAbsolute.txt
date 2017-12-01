@@ -1,0 +1,7 @@
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\AdventureGame\AdventureGame\bin\Debug\InitialGameSetup.xml
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb

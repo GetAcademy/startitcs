@@ -1,0 +1,6 @@
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningListLinqOgString\UndervisningListLinqOgString\bin\Debug\UndervisningListLinqOgString.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningListLinqOgString\UndervisningListLinqOgString\bin\Debug\UndervisningListLinqOgString.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningListLinqOgString\UndervisningListLinqOgString\bin\Debug\UndervisningListLinqOgString.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningListLinqOgString\UndervisningListLinqOgString\obj\Debug\UndervisningListLinqOgString.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningListLinqOgString\UndervisningListLinqOgString\obj\Debug\UndervisningListLinqOgString.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\UndervisningListLinqOgString\UndervisningListLinqOgString\obj\Debug\UndervisningListLinqOgString.pdb

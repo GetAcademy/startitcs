@@ -1,0 +1,7 @@
+C:\GET IT\C#\UndervisningIO\UndervisningIO\bin\Debug\UndervisningIO.exe.config
+C:\GET IT\C#\UndervisningIO\UndervisningIO\bin\Debug\UndervisningIO.exe
+C:\GET IT\C#\UndervisningIO\UndervisningIO\bin\Debug\UndervisningIO.pdb
+C:\GET IT\C#\UndervisningIO\UndervisningIO\obj\Debug\UndervisningIO.csprojResolveAssemblyReference.cache
+C:\GET IT\C#\UndervisningIO\UndervisningIO\obj\Debug\UndervisningIO.exe
+C:\GET IT\C#\UndervisningIO\UndervisningIO\obj\Debug\UndervisningIO.pdb
+C:\GET IT\C#\UndervisningIO\UndervisningIO\bin\Debug\data.txt

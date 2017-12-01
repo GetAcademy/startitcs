@@ -1,0 +1,6 @@
+C:\Users\terje\Google Drive\GET IT SRC\ShowPlaces\ShowPlaces\bin\Debug\ShowPlaces.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\ShowPlaces\ShowPlaces\bin\Debug\ShowPlaces.exe
+C:\Users\terje\Google Drive\GET IT SRC\ShowPlaces\ShowPlaces\bin\Debug\ShowPlaces.pdb
+C:\Users\terje\Google Drive\GET IT SRC\ShowPlaces\ShowPlaces\obj\Debug\ShowPlaces.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\ShowPlaces\ShowPlaces\obj\Debug\ShowPlaces.exe
+C:\Users\terje\Google Drive\GET IT SRC\ShowPlaces\ShowPlaces\obj\Debug\ShowPlaces.pdb

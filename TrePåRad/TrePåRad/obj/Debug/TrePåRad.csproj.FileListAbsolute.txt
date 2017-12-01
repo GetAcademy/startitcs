@@ -1,0 +1,13 @@
+C:\Users\terje\Google Drive\GET IT SRC\TrePåRad\TrePåRad\bin\Debug\TrePåRad.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\TrePåRad\TrePåRad\bin\Debug\TrePåRad.exe
+C:\Users\terje\Google Drive\GET IT SRC\TrePåRad\TrePåRad\bin\Debug\TrePåRad.pdb
+C:\Users\terje\Google Drive\GET IT SRC\TrePåRad\TrePåRad\obj\Debug\TrePåRad.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\TrePåRad\TrePåRad\obj\Debug\TrePåRad.exe
+C:\Users\terje\Google Drive\GET IT SRC\TrePåRad\TrePåRad\obj\Debug\TrePåRad.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\TrePåRad\TrePåRad\bin\Debug\TrePåRad.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\TrePåRad\TrePåRad\bin\Debug\TrePåRad.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\TrePåRad\TrePåRad\bin\Debug\TrePåRad.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\TrePåRad\TrePåRad\obj\Debug\TrePåRad.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\TrePåRad\TrePåRad\obj\Debug\TrePåRad.csproj.CoreCompileInputs.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\TrePåRad\TrePåRad\obj\Debug\TrePåRad.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\TrePåRad\TrePåRad\obj\Debug\TrePåRad.pdb

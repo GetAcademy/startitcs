@@ -1,0 +1,7 @@
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\RandomShapes\RandomBoxes\bin\Debug\RandomBoxes.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\RandomShapes\RandomBoxes\bin\Debug\RandomBoxes.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\RandomShapes\RandomBoxes\bin\Debug\RandomBoxes.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\RandomShapes\RandomBoxes\obj\Debug\RandomShapes.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\RandomShapes\RandomBoxes\obj\Debug\RandomShapes.csproj.CoreCompileInputs.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\RandomShapes\RandomBoxes\obj\Debug\RandomBoxes.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\RandomShapes\RandomBoxes\obj\Debug\RandomBoxes.pdb

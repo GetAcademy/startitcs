@@ -1,0 +1,6 @@
+C:\GET IT\C#\CountChars\CountChars\bin\Debug\CountChars.exe.config
+C:\GET IT\C#\CountChars\CountChars\bin\Debug\CountChars.exe
+C:\GET IT\C#\CountChars\CountChars\bin\Debug\CountChars.pdb
+C:\GET IT\C#\CountChars\CountChars\obj\Debug\CountChars.csprojResolveAssemblyReference.cache
+C:\GET IT\C#\CountChars\CountChars\obj\Debug\CountChars.exe
+C:\GET IT\C#\CountChars\CountChars\obj\Debug\CountChars.pdb

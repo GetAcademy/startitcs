@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AdventureGameModel>
+  <Player Room="SW">
+    <Inventory>
+      <Item>
+        <Key Color="Blue"></Key>
+        <Key Color="White"></Key>
+      </Item>
+    </Inventory>
+  </Player>
+  <Rooms>
+    <Room >
+      <Doors>
+        <Door Color="Blue" East="N" North="x" IsOpen="true"></Door>
+        <Door Color="Green" South="W" West="x" IsOpen="true"></Door>
+      </Doors>
+      <Text>Du er i et mørkt rom. Det drypper vann i en liten pytt. </Text>
+      <Inventory>
+        <Item>
+          <Key Color="Yellow"></Key>
+          <Key Color="Black"></Key>
+        </Item>
+      </Inventory>
+    </Room>
+    <Room Id="W">
+      <Text>Blablabla.</Text>
+      <Inventory>
+        <Item>
+          <Key Color="Yellow"></Key>
+          <Key Color="Black"></Key>
+        </Item>
+      </Inventory>
+    </Room>
+  </Rooms>
+</AdventureGameModel>

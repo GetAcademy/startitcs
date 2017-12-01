@@ -1,0 +1,6 @@
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\FlexiArray\FlexiArray\bin\Debug\FlexiArray.exe.config
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\FlexiArray\FlexiArray\bin\Debug\FlexiArray.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\FlexiArray\FlexiArray\bin\Debug\FlexiArray.pdb
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\FlexiArray\FlexiArray\obj\Debug\FlexiArray.csprojResolveAssemblyReference.cache
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\FlexiArray\FlexiArray\obj\Debug\FlexiArray.exe
+C:\Users\terje\Google Drive\GET IT SRC\C# - intro\FlexiArray\FlexiArray\obj\Debug\FlexiArray.pdb
